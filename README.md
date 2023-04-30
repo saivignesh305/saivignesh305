@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @saivignesh305
 - 👀 I’m interested in machine learing
-- 🌱 I’m currently learning machine learning on python
+- 🌱 I’m currently learning machine learning with python
 - 📫To reach me gmail: saivignesh305@gmail.com
 
 <!---
